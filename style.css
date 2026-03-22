@@ -1,0 +1,15 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url('DSC01350.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: rgb(255, 255, 255);
+}
+
+.container {
+    max-width: 40%;
+    margin-left: 40px;
+    padding: 0 15px;
+}
+
